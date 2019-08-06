@@ -82,4 +82,5 @@ Credit goes to them for doing all of the hard work!
   3. Step logs
 - The terminal with the step logs will repeat a message until the policy training is complete.
 - These steps are for CPU training. CPU training will slow down during the policy training. Each policy training session after a training iteration will get progressively slower. 
+- After setting up, you can follow [these steps](https://github.com/kevinmarlis/deep-racer/blob/master/Mac-local-training.md) to train a new model.
 - Please let me know if something needs revising, I've missed a step, or something isn't clear!
