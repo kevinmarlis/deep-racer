@@ -2,6 +2,8 @@ After setting up from [here](https://github.com/kevinmarlis/deep-racer/blob/mast
 
 #### Bold lines are terminal commands
 
+Make sure Docker is running.
+
 ## Minio
 
 1. In a terminal window, redirect to ~/ if need be
