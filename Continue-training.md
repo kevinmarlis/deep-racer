@@ -15,4 +15,4 @@
   - "pretrained_s3_bucket": "{}".format(s3_bucket),
   - "pretrained_s3_prefix": "rl-deepracer-pretrained"
 
-4. Train as normal.
+4. [Train](https://github.com/kevinmarlis/deep-racer/blob/master/Mac-local-training.md) as normal.
