@@ -11,7 +11,7 @@
   - model_metadata.json
   - checkpoint
 
-3. In deepracer/rl_coach, edit rl_deepracer_coach_robomaker.py. Uncomment the two pretrained lines and save the file:
+3. In deepracer/rl_coach, edit rl_deepracer_coach_robomaker.py, uncomment the two pretrained lines and save the file:
   - "pretrained_s3_bucket": "{}".format(s3_bucket),
   - "pretrained_s3_prefix": "rl-deepracer-pretrained"
 
