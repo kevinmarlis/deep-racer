@@ -8,3 +8,9 @@
 
 ### [Steps to run local training on OSX using CPU](https://github.com/kevinmarlis/deep-racer/blob/master/Mac-local-training.md)
   Terminal commands to run local training after setup
+&nbsp;
+
+&nbsp;
+
+### [Steps to continue training a model](https://github.com/kevinmarlis/deep-racer/blob/master/Continue-training.md)
+  Files to copy and edit to continue training a model
