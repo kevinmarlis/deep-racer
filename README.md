@@ -14,3 +14,9 @@
 
 ### [Steps to continue training a model](https://github.com/kevinmarlis/deep-racer/blob/master/Continue-training.md)
   Files to copy and edit to continue training a model
+
+&nbsp;
+
+&nbsp;
+
+#### Currently working on getting steps to get [Alex's DeepRacer-for-Dummies] to run on a Mac 
