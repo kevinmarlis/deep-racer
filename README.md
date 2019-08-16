@@ -19,4 +19,4 @@
 
 &nbsp;
 
-#### Currently working on getting steps to get [Alex's DeepRacer-for-Dummies] to run on a Mac 
+#### Currently working on getting steps to get [Alex's DeepRacer-for-Dummies](https://github.com/alexschultz/deepracer-for-dummies) to run on a Mac 
