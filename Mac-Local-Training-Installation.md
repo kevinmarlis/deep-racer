@@ -25,7 +25,7 @@ Credit goes to them for doing all of the hard work!
 - On lines 3 and 4, replace minio and miniokey with your AWS access key and password
 - On line 12, replace "$(hostname -i)" with your actual IP address (ie: 192.168.1.xxx)
 - On line 14, replace "readlink" with "greadlink" and save the file
-9. **cd rl_coach**
+9. **cd deepracer/rl_coach**
 10. **brew install coreutils**
 11. **. ./env.sh**
 12. **minio server data**
