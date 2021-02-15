@@ -1,4 +1,5 @@
 # Deepracer
+## *NOTE: These steps were last updated in August of 2019.*
 
 ### [Steps to set up local training on OSX using CPU](https://github.com/kevinmarlis/deep-racer/blob/master/Mac-Local-Training-Installation.md)
   Based on crr0004's [hard work](https://github.com/crr0004/deepracer) and joezen777's [OSX translation](https://gist.github.com/joezen777/6657bbe2bd4add5d1cdbd44db9761edb)
